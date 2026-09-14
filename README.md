@@ -60,6 +60,7 @@
 - 部分 skill 目录名包含空格，Windows 环境请注意路径兼容。
 - skill 内容会随模型和平台能力持续更新，建议定期拉取最新版。
 
+
 ## 关键词
 
-AI 短剧、AI 视频生成、Seedance、Agent skills、短剧提示词、视频风格化、营销视频、Remotion、Hyperframes、视频工作流。
+小云雀、xiaoyunque、AI 短剧、AI 视频生成、Seedance、Agent skills、短剧提示词、视频风格化、营销视频、Remotion、Hyperframes、视频工作流。

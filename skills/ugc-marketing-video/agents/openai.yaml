@@ -1,0 +1,6 @@
+interface:
+  display_name: "国内 UGC 营销视频"
+  short_description: "生成稳定的国内UGC营销脚本与Seedance执行指令"
+  default_prompt: "使用 $ugc-marketing-video 根据商品素材生成达人垫图、直接脚本和内部视频执行指令。"
+policy:
+  allow_implicit_invocation: true

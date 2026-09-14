@@ -1,0 +1,7 @@
+interface:
+  display_name: "UGC营销 30s"
+  short_description: "Seedance 2.5 UGC营销30秒生成"
+  default_prompt: "Use $ugc-marketing-video-for-2-5 to create a 30-second Seedance 2.5 UGC marketing video prompt."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "国漫3D渲染风短剧"
+  short_description: "锁定国漫3D渲染风格，支持古风、现代、科幻等题材从剧本到影音成片的制作"
+  default_prompt: "使用 $guoman-3d-drama，将我的故事或已有剧本推进到当前所需的制作阶段，保留故事题材和时代设定，保持固定风格锚定词和跨镜一致性。"

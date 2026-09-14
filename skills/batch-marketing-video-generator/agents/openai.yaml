@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Marketing Video Generator"
+  short_description: "Create batch marketing videos from information understanding, storyboard, and scripts"
+  default_prompt: "Use $batch-marketing-video-generator to turn my product information into information understanding, a storyboard, and generation scripts."

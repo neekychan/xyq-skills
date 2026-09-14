@@ -1,0 +1,7 @@
+interface:
+  display_name: "UGC Seasonal Promotion Video 30s"
+  short_description: "30秒618/双11/七夕等节点大促带货视频；适合更完整讲优惠、赠品、产品证明和购买路径"
+  default_prompt: "Use $ugc-seasonal-promotion-video-30s and silently read its required references before output. Do not expose reference file names, file paths, loading status, or rule-check summaries to the user. Create a 30-second seasonal or campaign promotion commerce video prompt for this product. Identify the promotion occasion first, such as 618, 99 sale, Double 11, Qixi, Lunar New Year sale, back-to-school, brand day, member day, category day, or live-room special. When the request contains both a campaign occasion and story/drama/meme terms such as 剧情, 短剧, 富二代, 霸总, 反转, or 玩梗, keep this seasonal promotion skill and use the story idea as the Hook. Follow this 30s script structure: Hook -> brightest single offer/mechanism -> mechanism/gift reveal -> product proof 1 -> product proof 2/use scenario -> campaign time plus offer path -> urgency/trust reminder -> one purchase CTA. Use strong visual hooks, product-image consistency, product-specific script variation, medium-fast clear Mandarin voiceover, select only 4-5 short sticker moments in foreground safe zones, keep product-proof frames clean when the visual action is clear, adapt creator expression/clothing/background/props to the primary benefit route and campaign occasion, use platform-neutral product cards/coupon cards/mechanism cards/CTA cards inside real product or creator scenes, and set subtitle_mode off by default."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "品牌大片 30s"
+  short_description: "Seedance 2.5品牌大片30秒生成"
+  default_prompt: "Use $brand-film-for-2-5 to create a 30-second Seedance 2.5 brand film prompt."
+
+policy:
+  allow_implicit_invocation: true
